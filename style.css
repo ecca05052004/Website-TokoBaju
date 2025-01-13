@@ -1,0 +1,42 @@
+/* Styling untuk banner */
+.banner {
+  background: url("https://i.pinimg.com/originals/b5/1d/73/b51d7389beea1983a0810d23715d230d.jpg") no-repeat center center;
+  background-size: cover;
+  padding: 20% 0; /* Mengatur padding atas dan bawah */
+  color: #fff;
+}
+
+/* Styling untuk judul display-3 */
+.display-3 {
+  font-weight: bold; /* Membuat teks menjadi tebal */
+}
+
+/* Styling untuk elemen lingkaran */
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%; /* Membuat elemen berbentuk lingkaran */
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  background: url("https://s1.bukalapak.com/bukalapak-kontenz-production/content_attachments/55866/original/5.jpg") no-repeat center center;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+}
+
+/* Styling untuk ikon dalam lingkaran */
+.lingkaran i {
+  position: relative;
+  top: 50%; /* Pusatkan ikon secara vertikal */
+  transform: translateY(-50%); /* Pusatkan secara sempurna */
+  font-size: 2em;
+  color: #fff; /* Warna ikon */
+}
+
+/* Styling untuk elemen kontak */
+.kontak {
+  background: url("https://www.wallpaperuse.com/wallp/65-655530_m.jpg") no-repeat center center;
+  background-size: cover;
+  padding: 50% 0 30%; /* Mengatur padding atas dan bawah */
+  color: #fff;
+}
